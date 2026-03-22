@@ -21,7 +21,7 @@ buildPythonPackage rec {
   meta = {
     description = "Python Hopper IPC client library";
     homepage = "https://github.com/systemetric/hopper";
-    maintainers = with lib.maintainers; [ olsuser101 ];
+    maintainers = with lib.maintainers; [ olduser101 ];
     license = lib.licenses.bsd2;
     platforms = lib.platforms.linux;
   };
